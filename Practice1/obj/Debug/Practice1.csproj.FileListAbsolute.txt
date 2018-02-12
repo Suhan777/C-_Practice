@@ -1,0 +1,6 @@
+D:\GIT_REPOS\CSharp_Practice\Practice1\bin\Debug\Practice1.exe.config
+D:\GIT_REPOS\CSharp_Practice\Practice1\bin\Debug\Practice1.exe
+D:\GIT_REPOS\CSharp_Practice\Practice1\bin\Debug\Practice1.pdb
+D:\GIT_REPOS\CSharp_Practice\Practice1\obj\Debug\Practice1.csprojResolveAssemblyReference.cache
+D:\GIT_REPOS\CSharp_Practice\Practice1\obj\Debug\Practice1.exe
+D:\GIT_REPOS\CSharp_Practice\Practice1\obj\Debug\Practice1.pdb
